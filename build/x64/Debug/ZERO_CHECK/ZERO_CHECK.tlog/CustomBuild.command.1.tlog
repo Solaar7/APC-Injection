@@ -1,0 +1,10 @@
+^C:\USERS\GARYG\DOCUMENTS\GITHUB\APC-INJECTION\BUILD\CMAKEFILES\B3AD36A3E347A71BFFEADC76B16FE262\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Garyg/Documents/GitHub/APC-Injection -BC:/Users/Garyg/Documents/GitHub/APC-Injection/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Garyg/Documents/GitHub/APC-Injection/build/APC-Injection.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

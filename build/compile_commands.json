@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Garyg/Documents/GitHub/APC-Injection/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -o CMakeFiles\\APC-Injection.dir\\main.c.obj -c C:\\Users\\Garyg\\Documents\\GitHub\\APC-Injection\\main.c",
+  "file": "C:/Users/Garyg/Documents/GitHub/APC-Injection/main.c",
+  "output": "CMakeFiles/APC-Injection.dir/main.c.obj"
+}
+]
