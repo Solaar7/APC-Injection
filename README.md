@@ -119,9 +119,9 @@ Running this should be quite simple. You will have to edit the main.c file and a
 ## Usage
 
 This program is just one example of how APC queries can be leveraged to gain control or escalate priveleges on a system. To run this application, build it using the steps above and open a Notepad window. That is what the program will inject code into. finally, you can run the file with the following command:
-'''pwsh
+```pwsh
 .\path\to\file\APC-Injection.exe
-'''
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
