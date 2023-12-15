@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Solaar7/APC-Injection">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="240" height="240">
   </a>
 
 <h3 align="center">APC-Injection</h3>
