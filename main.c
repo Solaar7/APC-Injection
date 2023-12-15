@@ -76,7 +76,7 @@ int main() {
 	DWORD		cProcesses = NULL;
 
 	// Payload Variables
-	wchar_t				dllPath[MAX_PATH] = L"C:\\Users\\Garyg\\source\\repos\\Maldev\\randomDLL.dll";
+	wchar_t				dllPath[MAX_PATH] = L"\\path\\to\\file.dll";
 	size_t				pathSize = sizeof(dllPath);
 	size_t				bytesWritten = 0;
 	size_t				bytesRead = 0;
